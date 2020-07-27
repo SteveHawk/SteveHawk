@@ -1,7 +1,7 @@
 # Hi there 👋 It's Steve!
 
 <p align="right">
-  <img width="400" src="https://raw.githubusercontent.com/SteveHawk/SteveHawk/master/rick.gif">
+  <img width="333" src="https://raw.githubusercontent.com/SteveHawk/SteveHawk/master/rick.gif">
 </p>
 
 ```python
