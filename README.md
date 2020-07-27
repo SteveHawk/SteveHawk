@@ -10,9 +10,7 @@
 ```python
 import uuid
 import time
-import world
 import random
-from typing import List
 from LGBTQ+ import Demiboy
 
 class Steve:
@@ -35,7 +33,7 @@ class Steve:
             return "Maybe I'll become a musician in the future!"
 
     def hobby(self, index: int = random.randint(0, 69)) -> str:
-        self.interests: List[str] = [
+        self.interests = [
             "Science Fiction", "AI/Machine Learning", "Chemistry",
             "Computer Vision", "Computer Music", "Astronomy",
             "Music Production", "Software Defined Radio",
@@ -44,6 +42,7 @@ class Steve:
         ]
         return self.interests[index % len(self.interests)]
 
+world = Universe.World()
 ME = Steve(uuid.uuid5(world.UUID, "SteveHawk"))
 ```
 
