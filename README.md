@@ -1,11 +1,10 @@
 # Hi there 👋 It's Steve!
 
-<p>
+<div>
   <img width="333" align="right" src="https://raw.githubusercontent.com/SteveHawk/SteveHawk/master/steve.gif">
-</p>
-<p>
+  <br>
   <img width="333" align="right" src="https://raw.githubusercontent.com/SteveHawk/SteveHawk/master/rick.gif">
-</p>
+</div>
 
 🐍 Let me introduce myself a bit here...
 
