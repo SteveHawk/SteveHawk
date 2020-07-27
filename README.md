@@ -2,6 +2,8 @@
 
 <p>
   <img width="333" align="right" src="https://raw.githubusercontent.com/SteveHawk/SteveHawk/master/steve.gif">
+</p>
+<p>
   <img width="333" align="right" src="https://raw.githubusercontent.com/SteveHawk/SteveHawk/master/rick.gif">
 </p>
 
