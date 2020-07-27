@@ -1,8 +1,4 @@
-<div>
-  <img width="100" align="right" src="https://raw.githubusercontent.com/SteveHawk/SteveHawk/master/steve.gif">
-</div>
-
-# Hi there 👋 It's Steve!
+# Hi there 👋 It's Steve! <img width="100" src="https://raw.githubusercontent.com/SteveHawk/SteveHawk/master/steve.gif">
 
 🐍 Let me introduce myself a bit here...
 
