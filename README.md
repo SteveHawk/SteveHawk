@@ -1,8 +1,10 @@
 # Hi there 👋 It's Steve!
 
-<p align="right">
-  <img width="333" src="https://raw.githubusercontent.com/SteveHawk/SteveHawk/master/rick.gif">
+<p>
+  <img width="333" align="right" src="https://raw.githubusercontent.com/SteveHawk/SteveHawk/master/rick.gif">
 </p>
+
+🐍 Let me introduce my self a bit here...
 
 ```python
 import time
