@@ -1,11 +1,14 @@
-# Hi there 👋 It's Steve!
-
 <div>
-  <img width="333" align="right" src="https://raw.githubusercontent.com/SteveHawk/SteveHawk/master/steve.gif">
-  <!-- <img width="333" align="right" src="https://raw.githubusercontent.com/SteveHawk/SteveHawk/master/rick.gif"> -->
+  <img width="100" align="right" src="https://raw.githubusercontent.com/SteveHawk/SteveHawk/master/steve.gif">
 </div>
 
+# Hi there 👋 It's Steve!
+
 🐍 Let me introduce myself a bit here...
+
+<div>
+  <img width="333" align="right" src="https://raw.githubusercontent.com/SteveHawk/SteveHawk/master/rick.gif">
+</div>
 
 ```python
 import uuid
