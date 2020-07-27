@@ -1,4 +1,4 @@
-<h1> Hi there <img width="35" src="https://raw.githubusercontent.com/SteveHawk/SteveHawk/master/rick.gif"> It's Steve! </h1>
+# Hi there 👋 It's Steve! <img width="35" src="https://raw.githubusercontent.com/SteveHawk/SteveHawk/master/rick.gif">
 
 🐍 Let me introduce myself a bit here...
 
@@ -7,11 +7,6 @@
 </div>
 
 ```python
-import uuid
-import time
-import random
-from LGBTQ+ import Demiboy
-
 class Steve:
     def __init__(self, UUID: uuid.UUID) -> None:
         self.UUID = UUID
@@ -19,7 +14,6 @@ class Steve:
         self.pronouns = {"He", "Him"}
         self.code = ["Python", "Golang", "C/C++", "Java"]
         self.OS = ("Windows", "Linux", "Android")
-        self.website = "https://stevehawk.tk"
 
     def career(self, year: int) -> str:
         self.career = ["Student", "CV Engineer"]
