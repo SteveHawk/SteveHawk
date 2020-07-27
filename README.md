@@ -1,7 +1,9 @@
 # Hi there 👋 It's Steve!
 
-<img width="333" align="right" src="https://raw.githubusercontent.com/SteveHawk/SteveHawk/master/steve.gif"><br>
-<img width="333" align="right" src="https://raw.githubusercontent.com/SteveHawk/SteveHawk/master/rick.gif">
+<div>
+  <img width="333" align="right" src="https://raw.githubusercontent.com/SteveHawk/SteveHawk/master/steve.gif">
+  <!-- <img width="333" align="right" src="https://raw.githubusercontent.com/SteveHawk/SteveHawk/master/rick.gif"> -->
+</div>
 
 🐍 Let me introduce myself a bit here...
 
