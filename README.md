@@ -1,4 +1,4 @@
-# Hi there 👋 It's Steve! <img width="100" src="https://raw.githubusercontent.com/SteveHawk/SteveHawk/master/steve.gif">
+<h1><img width="50" src="https://raw.githubusercontent.com/SteveHawk/SteveHawk/master/steve.gif"> Hi there 👋 It's Steve! </h1>
 
 🐍 Let me introduce myself a bit here...
 
