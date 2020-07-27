@@ -1,20 +1,23 @@
 # Hi there 👋 It's Steve!
 
 <p>
+  <img width="333" align="right" src="https://raw.githubusercontent.com/SteveHawk/SteveHawk/master/steve.gif">
   <img width="333" align="right" src="https://raw.githubusercontent.com/SteveHawk/SteveHawk/master/rick.gif">
 </p>
 
-🐍 Let me introduce my self a bit here...
+🐍 Let me introduce myself a bit here...
 
 ```python
+import uuid
 import time
+import world
 import random
 from typing import List
 from LGBTQ+ import Demiboy
 
 class Steve:
-    def __init__(self) -> None:
-        self.name = "Steve"
+    def __init__(self, UUID: uuid.UUID) -> None:
+        self.UUID = UUID
         self.gender = Demiboy()
         self.pronouns = {"He", "Him"}
         self.code = ["Python", "Golang", "C/C++", "Java"]
@@ -41,9 +44,9 @@ class Steve:
         ]
         return self.interests[index % len(self.interests)]
 
-ME = Steve()
+ME = Steve(uuid.uuid5(world.UUID, "SteveHawk"))
 ```
 
 ---
 
-⭐️ From [@SteveHawk](https://github.com/SteveHawk)
+💡 & 💖 From [@SteveHawk](https://github.com/SteveHawk)
