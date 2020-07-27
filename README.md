@@ -1,3 +1,5 @@
-## Hi there 👋 It's Steve!
+# Hi there 👋 It's Steve!
 
-![img](https://raw.githubusercontent.com/SteveHawk/SteveHawk/master/rick.gif)
+<p align="center">
+  <img width="469" src="https://raw.githubusercontent.com/SteveHawk/SteveHawk/master/rick.gif">
+</p>
