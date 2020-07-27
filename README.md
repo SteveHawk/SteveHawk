@@ -30,16 +30,15 @@ class Steve:
         elif year == now:
             return f"I am a {self.career[1]} now."
         else:
-            return "Maybe I'll become a musician in the future!"
+            return "Maybe I'll become a Musician in the future!"
 
     def hobby(self, index: int = random.randint(0, 69)) -> str:
         self.interests = [
-            "Science Fiction", "AI/Machine Learning", "Chemistry",
+            "Science Fiction", "Machine Learning", "Chemistry",
             "Computer Vision", "Computer Music", "Astronomy",
-            "Music Production", "Software Defined Radio",
-            "Walking (Not Running!)", "Japanese", "Origami",
-            "Toki Pona", "Ping Pong", "Not Tetris 2"
-        ]
+            "Music", "Software Defined Radio", "Japanese",
+            "Walking (Not Running!)", "Not Tetris 2"
+        ]  # And More
         return self.interests[index % len(self.interests)]
 
 world = Universe.World()
