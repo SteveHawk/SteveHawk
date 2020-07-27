@@ -1,9 +1,9 @@
-<h1><img width="50" src="https://raw.githubusercontent.com/SteveHawk/SteveHawk/master/steve.gif"> Hi there 👋 It's Steve! </h1>
+# Hi there 👋 It's Steve! <img width="40" src="https://raw.githubusercontent.com/SteveHawk/SteveHawk/master/rick.gif">
 
 🐍 Let me introduce myself a bit here...
 
 <div>
-  <img width="333" align="right" src="https://raw.githubusercontent.com/SteveHawk/SteveHawk/master/rick.gif">
+  <img width="333" align="right" src="https://raw.githubusercontent.com/SteveHawk/SteveHawk/master/steve.gif">
 </div>
 
 ```python
