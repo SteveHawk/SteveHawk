@@ -12,8 +12,8 @@ class Steve:
         self.UUID = UUID
         self.gender = Demiboy()
         self.pronouns = {"He", "Him"}
-        self.code = ["Python", "Golang", "C/C++", "Java"]
-        self.OS = ("Windows", "Linux", "Android")
+        self.code = ["Python", "Rust", "Golang", "C"]
+        self.OS = ("Pop!_OS", "Android")
 
     def career(self, year: int) -> str:
         self.career = ["Student", "CV Engineer"]
