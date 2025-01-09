@@ -10,27 +10,23 @@
 class Steve:
     def __init__(self, UUID: uuid.UUID) -> None:
         self.UUID = UUID
-        self.gender = Demiboy()
-        self.pronouns = {"He", "Him"}
-        self.code = ["Python", "Rust", "Golang", "C"]
-        self.OS = ("Pop!_OS", "Android")
+        self.gender = Gender.UNDEFINED
+        self.pronouns = {"They", "Them"}
+        self.code = ["Python", "Rust", "Java", "Golang", "C"]
+        self.OS = ("Linux", "Android")
 
     def career(self, year: int) -> str:
-        self.career = ["Student", "CV Engineer"]
-        now: int = time.localtime()[0]
-        if year < now:
+        self.career = ["Computer Vision Engineer", "Solo Dev"]
+        if year < (now := time.localtime()[0]):
             return f"I was a {self.career[0]}."
         elif year == now:
             return f"I am a {self.career[1]} now."
-        else:
-            return "Maybe I'll become a Musician in the future!"
+        return "Maybe I'll become a Musician in the future!"
 
-    def hobby(self, index: int = random.randint(0, 69)) -> str:
+    async def hobby(self, index: int = random.randint(0, 69)) -> str:
         self.interests = [
-            "Science Fiction", "Machine Learning", "Chemistry",
-            "Computer Vision", "Computer Music", "Astronomy",
-            "Music", "Software Defined Radio", "Japanese",
-            "Walking (Not Running!)", "Not Tetris 2"
+            "Vision Computing", "Music", "Ham Radio", "Astronomy",
+            "Science Fiction", "Toki Pona", "Not Tetris 2"
         ]  # And More
         return self.interests[index % len(self.interests)]
 
