@@ -2,9 +2,7 @@
 
 🐍 Let me introduce myself a bit here...
 
-<div>
-  <img width="333" align="right" src="https://raw.githubusercontent.com/SteveHawk/SteveHawk/master/steve.gif">
-</div>
+<img align="right" width=33% src="https://raw.githubusercontent.com/SteveHawk/SteveHawk/master/steve.gif">
 
 ```python
 class Steve:
